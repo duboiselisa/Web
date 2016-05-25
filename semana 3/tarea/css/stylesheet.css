@@ -1,0 +1,21 @@
+body { 
+background-image: url(../imagen/dos.png); 
+color: white;
+font-family: helvetica;
+}
+
+img{ border: solid;
+	border-width: 20px;
+ 	border-color: salmon;
+ }
+
+ p {
+ 	background-color: salmon;
+ 	border: solid;
+ 	border-color: salmon;
+ 	border-width: 20px;
+ }
+
+ h1{
+ 	background-color: salmon;
+ }

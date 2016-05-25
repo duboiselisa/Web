@@ -1,0 +1,152 @@
+#wrapper{
+	max-width: 990px;
+	margin: 0 auto;
+	al
+}
+
+
+.main img{
+	width: 800px;
+	margin-top: 5%;
+    margin-bottom: 3%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container div{
+    opacity: 0.99;
+    text-align: center;
+}
+
+body{
+	background-color: Black;
+}
+
+#nav li{
+	float: right; 
+	list-style-type: none;
+}
+
+#nav li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 15px 25px;
+	text-decoration: none;
+	font-family: helvetica;
+}
+
+.col1, .col2, .col3{
+	display: inline-block;
+	margin-left: 1%;
+	margin-right: 5%;
+}
+
+.imagen:hover{
+	opacity: 0.5;
+}
+
+p, h4, h3, h2, h1{
+	color: white;
+	width: 40%;
+}
+
+h1{
+	color: white;
+}
+
+.col1 img, .col2 img, .col3 img{
+	width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline;
+}
+.col1 p, .col2 p, .col3 p{
+	width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#marketing{
+	background-color: Maroon;
+    text-align: center;
+    display: inline-block;
+    margin: 1%;
+}
+
+#info{
+	background-color: black;
+}
+
+#info .col1{
+    margin: 1%;
+    display: inline-block;
+    float: left;
+
+}
+
+#info .col2{
+    text-align: justify-all;
+    margin: 1%;
+    display: inline-block;
+    float: right;
+
+}
+
+footer{
+	background-color: Maroon;
+	width: 100%;
+	clear: both;
+
+}
+
+footer li a{
+	list-style-type: none;
+	display: inline-block;
+	color: white;
+	text-align: center;
+	padding: 10px 15px;
+	text-decoration: none;
+	font-family: helvetica;
+}
+
+footer .col1{
+	margin-right: 0%;
+	margin-left: 20%;
+	width: 15%;
+	text-align: center;
+	margin-top: 9;
+	margin-bottom:9%;
+	float: left;
+}
+
+footer .col2{
+	margin-right: 20%;
+	margin-left: 0%;
+	width: 15%;
+	text-align: center;
+	margin-bottom:auto;
+	margin-top:5%;
+	float: right;
+}
+
+footer .col3{
+	margin-right: 0%;
+	margin-left: 15%;
+	margin-bottom:auto;
+	margin-top:5%;
+	width: 15%;
+	text-align: center;
+	float: right;
+}
+
+footer .col4{
+	margin-right: 20%;
+	margin-left: 1%;
+	width: 15%;
+	margin-top: auto;
+	text-align: center;
+	float: right;
+}
+

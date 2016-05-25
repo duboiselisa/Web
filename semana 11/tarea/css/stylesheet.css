@@ -1,0 +1,56 @@
+#wrapper{
+	width: 1024px;
+	margin: 0 auto;
+}
+
+body{
+	background-repeat: no-repeat;
+	background-size:100%;
+}
+
+.imagen-dos{
+    width: 80%;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.imagen{
+	width: 70%;
+   }
+
+.imagen:hover{
+	opacity: 0.4;
+}
+
+.container{
+	width: 990px;
+	margin: 0 auto;
+}
+
+.container div img{
+	width: 300px;
+}
+
+.container div{
+    opacity: 0.99;
+    text-align: center;
+}
+
+p{
+	color: red;
+	font-size: 1em;
+	opacity: 0.5;
+	font-family: sans-serif;
+}
+
+.uno, .dos, .tres, .cuatro, .cinco, .seis{
+	display: table;   
+    opacity: 0.99;
+    text-align: center;
+    display: inline-block;
+    margin: 1%;
+}
+
+
